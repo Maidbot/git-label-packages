@@ -2,5 +2,5 @@
   { "name": "Priority: On Hold", "color": "#eeeeee"},
   { "name": "Priority: Low", "color": "#cccccc" },
   { "name": "Priority: Medium", "color": "#fbca04" },
-  { "name": "Priority: High", "color": "#ff0000" },
+  { "name": "Priority: High", "color": "#ff0000" }
 ]
