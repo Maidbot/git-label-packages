@@ -8,5 +8,6 @@
   { "name": "Status: On Hold", "color": "#e11d21" },
   { "name": "Status: Pending", "color": "#fef2c0" },
   { "name": "Status: Review Needed", "color": "#fbca04" },
-  { "name": "Status: Revision Needed", "color": "#e11d21" }
+  { "name": "Status: Revision Needed", "color": "#e11d21" },
+  { "name": "Status: Testing Needed", "color": "#5319e7" }
 ]
